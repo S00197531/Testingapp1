@@ -1,3 +1,3 @@
 export function getCurrencies() {
-    return ['USD', 'GDP', 'EUR'];
+    return ['USD', 'GBP', 'EUR'];
 }
